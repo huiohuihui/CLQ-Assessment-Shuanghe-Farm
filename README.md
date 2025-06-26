@@ -27,7 +27,7 @@ Access the exported joblib model [here](https://github.com/huiohuihui/CLQ-Assess
 ## Citation
 
 
-<<<<<<< main
+
 > **If you find this work useful for your research, please consider citing our paper via the following BibTeX entries.**
 
 ```latex
