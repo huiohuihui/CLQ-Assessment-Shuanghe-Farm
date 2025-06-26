@@ -1,5 +1,6 @@
 # CLQ-Assessment-Shuanghe-Farm
 
+
 This repository contains the official **Code** and **subset data** for the paper: *"Research on Cultivated Land Quality Assessment at the Farm Scale for Black Soil Region in Northeast China Based on Typical Periods Remote Sensing Images from Landsat 9"*.
 
 ## Overview
@@ -16,7 +17,7 @@ The dataset provided (`subset_data.csv`) is a public subset containing **424 ano
 
 **If you find this work useful for your research, please consider citing our paper.**
 
-![MDPI Paper](https://img.shields.io/badge/MDPI-PaperLink-3A7138.svg)
+[![MDPI Paper](https://img.shields.io/badge/MDPI-PaperLink-3A7138.svg)](https://www.mdpi.com/2072-4292/17/13/2199)
 
 ### MDPI and ACS Style
 
