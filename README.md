@@ -45,8 +45,7 @@ DOI = {10.3390/rs17132199}
 }
 ```
 =======
-[![MDPI Paper](https://img.shields.io/badge/MDPI-PaperLink-3A7138.svg)](https://www.mdpi.com/2072-4292/17/13/2199)
->>>>>>> main
+
 
 ### MDPI and ACS Style
 
